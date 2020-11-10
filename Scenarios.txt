@@ -1,3 +1,4 @@
 Scenarios
 Scenario 1: This is scenario 1
 Scenario 2: This is scenario 2
+Scenario 4: This is scenario 4
